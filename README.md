@@ -19,4 +19,4 @@ A desktop application built in Java that solves Lewis Carroll's classic "Word La
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/word-ladder-solver.git](https://github.com/YOUR-USERNAME/word-ladder-solver.git)
+   git clone [https://github.com/itsnishkarsh!/word-ladder-solver.git](https://github.com/itsnishkarsh/word-ladder-solver.git)
